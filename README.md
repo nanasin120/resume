@@ -36,6 +36,7 @@
 * **획득 경험**: 알고리즘에 대한 이해와 **JavaScript**를 활용한 **실시간 경로 탐색 시각화** 구현 경험.
 * **기술 스택**: `HTML`, `JavaScript`, `CSS`
 * **GitHub 링크**: [https://github.com/nanasin120/a-star-algorithm-in-web](https://github.com/nanasin120/a-star-algorithm-in-web)
+* **영상 링크** : [실제 작동하는 모습](https://youtube.com/shorts/vmC_6UgY2N0)
 
 ### 2. raycaster 구현 (웹 시각화)
 
@@ -45,6 +46,7 @@
 * **획득 경험**: **광선 추적(Raycasting)** 개념의 이해 및 수학적 지식.
 * **기술 스택**: `HTML`, `JavaScript`, `CSS`
 * **GitHub 링크**: [https://github.com/nanasin120/raycaster](https://github.com/nanasin120/raycaster)
+* **영상 링크**: [레이캐스트의 구현 원리](https://youtu.be/SBwkfPEUshY), [실제 3d 렌더링 구현](https://youtu.be/zkyIJINDhtc)
 
 ### 3. 살인사건 - 펜션
 
