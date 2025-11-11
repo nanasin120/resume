@@ -2,7 +2,9 @@
 
 > 게임의 가장 큰 목표인 재미를 목표로 나아가고 싶습니다.
 
-안녕하세요. 저는 **Unity**와 **C\#**을 활용하여 게임을 개발하고 있는 신현빈입니다.
+안녕하세요. 저는 **Unity**와 **C\#** 을 활용하여 게임을 개발하고 있는 신현빈입니다.  
+플레이어의 기억에 남을 게임을 만드는 것이 목표이며, 단순한 개발이 효율적인 개발이 가능하도록 노력하고 있습니다.  
+또, 게임 이외에도 궁금한 것이 있으면 직접 구현해 봄으로써 그 원리를 파악하려 노력하고 있습니다.  
 
 ---
 
@@ -38,6 +40,10 @@
 * **GitHub 링크**: [https://github.com/nanasin120/a-star-algorithm-in-web](https://github.com/nanasin120/a-star-algorithm-in-web)
 * **영상 링크** : [실제 작동하는 모습](https://youtube.com/shorts/vmC_6UgY2N0)
 
+* **문제와 해결**
+  * **문제**: 경로를 제대로 계산하지 않고 먼 길로 돌아가는 현상 파악
+  * **해결**: 현재에서 목표까지의 기댓값을 계산하는 함수를 고치고 주요계산과정의 코드 오류 업데이트
+
 ### 2. raycaster 구현 (웹 시각화)
 
 > 고전 3D 게임의 렌더링 방식인 **Raycasting**의 원리를 웹에서 구현한 프로젝트
@@ -45,7 +51,7 @@
 * **만든 이유**: 과거 3D 게임이 어떻게 렌더링되었는지에 대한 **기술적 호기심**을 해소하기 위해 구현.
 * **획득 경험**: **광선 추적(Raycasting)** 개념의 이해 및 수학적 지식.
 * **기술 스택**: `HTML`, `JavaScript`, `CSS`
-* **GitHub 링크**: [https://github.com/nanasin120/raycaster](https://github.com/nanasin120/raycaster)
+* **GitHub 링크**: [키보드 버전](https://github.com/nanasin120/raycaster), [마우스 버전](https://github.com/nanasin120/raycaster_mouse)
 * **영상 링크**: [레이캐스트의 구현 원리](https://youtu.be/SBwkfPEUshY), [실제 3d 렌더링 구현](https://youtu.be/zkyIJINDhtc)
 
 ### 3. 살인사건 - 펜션
