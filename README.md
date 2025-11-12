@@ -6,6 +6,10 @@
 플레이어의 기억에 남을 게임을 만드는 것이 목표이며, 단순한 개발이 효율적인 개발이 가능하도록 노력하고 있습니다.  
 또, 게임 이외에도 궁금한 것이 있으면 직접 구현해 봄으로써 그 원리를 파악하려 노력하고 있습니다.  
 
+무언가를 개발함에 있어서 그 원리를 확실하게 이해하려 노력하는 편이고  
+단순히 기능을 개발하는 것이 아닌, 이 기능을 나중에도 사용할수 있도록, 
+그리고 효율적으로 사용할 수 있도록 기능을 개발하고 있습니다.
+
 ---
 
 ## 연락처 및 링크
@@ -23,8 +27,8 @@
 | 카테고리 | 기술 스택 | 주요 경험 |
 | :--- | :--- | :--- |
 | **게임 개발 엔진** | **Unity** | 2D 게임 프로젝트 경험 (Top-Down RPG 프레임워크 개발 중) |
-| **주요 언어** | **C\#** | Unity 핵심 로직 및 매니저 시스템 개발에 사용 |
-| **프로토타이핑** | **HTML, JavaScript, CSS** | 알고리즘 및 아이디어를 빠르고 직관적으로 시각화 (A\* 알고리즘, Raycaster 구현) |
+| **주요 언어** | **C\#** | Unity를 이용한 게임 개발에 이용 |
+| **프로토타이핑** | **HTML, JavaScript, CSS** | 알고리즘 및 아이디어를 빠르고 직관적으로 시각화 |
 
 ---
 
@@ -39,10 +43,12 @@
 * **기술 스택**: `HTML`, `JavaScript`, `CSS`
 * **GitHub 링크**: [https://github.com/nanasin120/a-star-algorithm-in-web](https://github.com/nanasin120/a-star-algorithm-in-web)
 * **영상 링크** : [실제 작동하는 모습](https://youtube.com/shorts/vmC_6UgY2N0)
+* **실행 화면** :
+<img src="https://github.com/nanasin120/a-star-algorithm-in-web/blob/main/image.png" width="400" alt="A* 알고리즘 웹 시각화">
 
 * **문제와 해결**
   * **문제**: 경로를 제대로 계산하지 않고 먼 길로 돌아가는 현상 파악
-  * **해결**: 현재에서 목표까지의 기댓값을 계산하는 함수를 고치고 주요계산과정의 코드 오류 업데이트
+  * **해결**: 현재에서 목표까지의 기댓값을 계산하는 함수를 바꾸고 주요 계산과정의 코드 오류 업데이트
 
 ### 2. raycaster 구현 (웹 시각화)
 
@@ -53,15 +59,20 @@
 * **기술 스택**: `HTML`, `JavaScript`, `CSS`
 * **GitHub 링크**: [키보드 버전](https://github.com/nanasin120/raycaster), [마우스 버전](https://github.com/nanasin120/raycaster_mouse)
 * **영상 링크**: [레이캐스트의 구현 원리](https://youtu.be/SBwkfPEUshY), [실제 3d 렌더링 구현](https://youtu.be/zkyIJINDhtc)
+* **실행 화면** :
+<img src="https://github.com/nanasin120/raycaster/blob/main/image.png" width="600" alt="A* 알고리즘 웹 시각화">
 
 ### 3. 살인사건 - 펜션
 
 > **GamePing 10분 컨테스트**에 제출한 간단한 추리 게임
 
 * **주요 성과**: **10분**이라는 제약된 시간 내에 아이디어를 구체화하고, 플레이 가능한 형태로 구현 및 제출.
-* **획득 경험**: 짧은 기간 동안 **기획 의도**에 맞는 **핵심 게임 플레이**를 빠르게 구현하고 배포하는 능력.
-* **기술 스택**: `C#`, `Unity`
+* **획득 경험**: 짧은 기간 동안 **기획 의도**에 맞는 **핵심 게임 플레이**를 빠르게 구현한 경험
+* **기술 스택**: `C#`, `Unity`, 'Pyxel Edit'
 * **배포 링크**: [GamePing에서 플레이하기](https://www.game-ping.kr/games/murder-at-mension)
+* **실행 화면** :
+<img src="https://github.com/nanasin120/resume/blob/main/image.png" width="600" alt="A* 알고리즘 웹 시각화">
+
 * **개발 이후**: 게임 개발에 있어 기본 프레임워크의 필요성을 인식
 
 ### 4. Unity RPG Manager (개발 중)
@@ -74,3 +85,7 @@
 * **GitHub 링크**: [https://github.com/nanasin120/unity\_rpg\_manager](https://github.com/nanasin120/unity_rpg_manager)
 
 ---
+
+### 학력
+
+* 단국대학교 소프트웨어학과 2021 ~ 재학
